@@ -1,0 +1,4 @@
+pandas
+sql
+load_dotenv
+os
